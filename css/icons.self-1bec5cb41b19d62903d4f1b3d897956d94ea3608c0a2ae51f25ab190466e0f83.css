@@ -1,0 +1,92 @@
+/*icons*/
+
+.step {line-height: 1;width: 10%;}.size-32 { font-size: 32px; }i { padding: 0; }.size-18 { font-size: 18px; } .size-36 { font-size: 36px; }
+.size-8 { font-size: 8px; }
+.flaticon-icons a:hover {text-decoration: none;}
+
+
+@font-face {
+  font-family: "Flaticon";
+  src: url('../fonts/lg-665cda40a4b1a2b64a0bf9fcb8d3dd713360cc78f2913eae2c9595cfc48e8585.eot');
+  src: url('../fonts/lg-665cda40a4b1a2b64a0bf9fcb8d3dd713360cc78f2913eae2c9595cfc48e8585.eot#iefix') format("embedded-opentype"),
+  url('../fonts/lg-7435c3273aa25217f4b0cadb0498580a8d9b6e67aaa6d9828b5127ef251dd197.woff') format("woff"),
+  url('../fonts/lg-ec5baba6581a4b2bc4e96cd2db70d71efa78eb8df376e49bc12cf195c946ff60.ttf') format("truetype"),
+  url('../fonts/lg-0761c1a990fc3da2fbbb50ec72029b1cd80f597bfe8a49130a4eade1a4fbb74d.svg') format("svg");
+  /*font-weight: normal;*/
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "Flaticon";
+  src: url('../fonts/flaticon-48bff0775098237d3acd8743a75df812c7692f9019eaec354ba9ef6b0c0c4bcf.eot');
+  src: url('../fonts/flaticon-48bff0775098237d3acd8743a75df812c7692f9019eaec354ba9ef6b0c0c4bcf.eot#iefix') format("embedded-opentype"),
+  url('../fonts/flaticon-c63dd1bde1176c12511f2e95edcb28d0a3ae7959fa71dd14695c816c0073b094.woff') format("woff"),
+  url('../fonts/flaticon-e67348969e50823708a5a24f46747f023d69e535e22cc22b5b692b57297677d7.ttf') format("truetype"),
+  url('../fonts/flaticon-5d206dcfd9ca5703aa285f2b4ef60f9f6f468e2959a40963033af651c66bb2a2.svg') format("svg");
+  font-style: normal;
+}
+
+
+[class^="flaticon-"]:before,
+[class*=" flaticon-"]:before,
+[class^="flaticon-"]:after,
+[class*=" flaticon-"]:after {
+  font-family: Flaticon;font-style: normal;
+}
+
+.flaticon-add30:before {
+  content: "\e000";
+}
+.flaticon-arrow487:before {
+  content: "\e001";
+}
+.flaticon-arrowhead7:before {
+  content: "\e002";
+}
+.flaticon-black218:before {
+  content: "\e003";
+}
+.flaticon-christmaspresent11:before {
+  content: "\e004";
+}
+.flaticon-delivery7:before {
+  content: "\e005";
+}
+.flaticon-facebook29:before {
+  content: "\e006";
+}
+.flaticon-heart13:before {
+  content: "\e007";
+}
+.flaticon-home168:before {
+  content: "\e008";
+}
+.flaticon-instagram12:before {
+  content: "\e009";
+}
+.flaticon-link15:before {
+  content: "\e00a";
+}
+.flaticon-lock76:before {
+  content: "\e00b";
+}
+.flaticon-man42:before {
+  content: "\e00c";
+}
+.flaticon-marker20:before {
+  content: "\e00d";
+}
+.flaticon-menu48:before {
+  content: "\e00e";
+}
+.flaticon-minus42:before {
+  content: "\e00f";
+}
+.flaticon-refresh57:before {
+  content: "\e010";
+}
+.flaticon-twitter1:before {
+  content: "\e011";
+}
+
